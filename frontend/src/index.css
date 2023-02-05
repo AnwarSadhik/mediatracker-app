@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: 'Konstant';
+  src: url('../public/assets/Konstant.otf');
+}
+html,body {
+  overflow-x: hidden;
+  font-family: 'Konstant', sans-serif;
+  font-weight: inherit;
+  height: auto;
+  background: #FFFBF5;
+}
+input {
+  font-family: inherit;
+  color: #000;
+}
+button {
+  font-family: inherit;
+}
+li {
+  list-style-type: none;
+}
+ul {
+  list-style: none;
+}
+a {
+  color: inherit;
+}
+
+@media (max-width: 768px) {
+  .Toastify__toast{
+    width: 50%;
+  }
+}

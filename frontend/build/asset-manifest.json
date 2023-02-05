@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d71a4457.css",
+    "main.js": "/static/js/main.2287565a.js",
+    "static/media/Konstant.otf": "/static/media/Konstant.16e315e356ea47254e64.otf",
+    "index.html": "/index.html",
+    "main.d71a4457.css.map": "/static/css/main.d71a4457.css.map",
+    "main.2287565a.js.map": "/static/js/main.2287565a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d71a4457.css",
+    "static/js/main.2287565a.js"
+  ]
+}
